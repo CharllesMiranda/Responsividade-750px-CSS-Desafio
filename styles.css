@@ -31,6 +31,7 @@ header {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 1px;
+    
 }
 
 .logotipo {
@@ -88,48 +89,36 @@ p {
 
     .botao-sign-up {
         position: sticky;
-        top: -65px;
-        left: 585px;
+        margin: 10px 10px 0 437px; 
     }
 
-    h1 {
+    /* h1 {
         max-width: 78%;
         height: auto;
         width: 100vw;
-    }
+    } */
 
     section {
-        margin-top: 124px;
         text-align: center;
-
+        margin: 30px 10px 10px 10px;
     }
 
     p {
-        width: 555px;
-        height: 165px;
-        font-size: 27px;
-        line-height: 33px;
-        letter-spacing: 0.5px;
-        max-width: 80%;
-        height: auto;
-        width: 100vw;
+        margin: 25px auto;
+        font-size: 25px;
+        
     }
 
     .link-learn-more {
-        margin-left: -165px;
-        margin-bottom: 15px;
+        margin: 25px auto;
+        font-size: 22px;
     }
 
-
-
-.logotipo {
-    position: absolute;
-    margin-top: 638px;
-    margin-left: 34px;
-    max-width: 90%;
-    height: auto;
-    width: 100vw;
-
-
+    .logotipo {
+        position: absolute;
+        height: auto;
+        width: 500PX;
+       margin-top: 500px;
+       margin-left: 53px;
 }
 }
